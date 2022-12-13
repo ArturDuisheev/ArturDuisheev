@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer from Kyrgystan</h3>
 
 - 🔭 I’m currently working on [Eco Forum](https://github.com/ArturDuisheev/EcoForum.git)
 
