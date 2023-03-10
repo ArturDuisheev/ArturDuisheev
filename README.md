@@ -1,4 +1,3 @@
-Hi 👋, I'm Artur<br>A passionate backend developer from Kyrgystan<br><br>🔭 I’m currently working on Eco Forum<br><br>🌱 I’m currently learning Java Kotlin<br><br>👨‍💻 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/22.dush.22) 
 
