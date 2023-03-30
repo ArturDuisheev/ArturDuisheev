@@ -1,5 +1,18 @@
 # 💫 About Me:
-Hi, i'm Artur!
+
+My name is Artur and I am a young Python developer. I am passionate about
+programming and technology, and I'm always looking to improve my skills and
+knowledge in this area.
+I have experience with Python, I have experience with libraries such as: ccxt (this
+Python library for working with cryptocurrency exchanges). I also possess
+basic database knowledge (PSQL, sqlite).
+My skills include developing web applications with Flask, Django, REST-API, and
+See also building microservices with Docker.
+I'm always open to learning new technologies and frameworks and I'm willing to accept any
+a challenge that may arise in my work. I work well in a team and am always ready
+share your knowledge and experience with other developers.
+I am sure that my experience and skills in the field of Python development can bring great
+the benefit of your company, and I am ready to show this in practice.
 
 
 ## 🌐 Socials:
