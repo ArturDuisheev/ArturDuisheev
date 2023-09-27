@@ -14,12 +14,6 @@ share your knowledge and experience with other developers.
 I am sure that my experience and skills in the field of Python development can bring great
 the benefit of your company, and I am ready to show this in practice.
 
- \      (__)
-     \  (oo)\_______
-        (__)\       )\/\
-            ||----w |
-            ||     ||
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/22.dush.22) 
 
